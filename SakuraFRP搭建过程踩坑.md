@@ -7,8 +7,8 @@ SakuraFRP搭建过程踩坑
 ~~主人之前因为环境配烂了重装了三四次~~
 
 准备
-
 ----------------------
+
 先把该装的都装上，iptables、lsof、**nginx、mysql**啥的  
 **后续安装时发现还需要其他依赖库，比如php--fpm、**
 
@@ -16,7 +16,6 @@ SakuraFRP搭建过程踩坑
 把库git clone一份到本地  
 
 开始部署！ <(￣︶￣)↗ GO!
-
 ------------------------------
 
 按着[SakuraFRP](https://github.com/ZeroDream-CN/SakuraPanel)的README放置网页文件  
